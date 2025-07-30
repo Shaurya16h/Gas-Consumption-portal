@@ -106,8 +106,6 @@ This project uses Entity Framework Core Migrations for database management.
 4.  **Explore features:**
     * Log in and start adding gas consumption entries, viewing your dashboard, etc.
 
-*(Provide more specific instructions on how to use the core features if needed.)*
-
 ## Project Structure
 
 Briefly describe the key folders and their purpose:
